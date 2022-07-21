@@ -5,6 +5,7 @@ function Footer() {
   return (
     <footer>
       <p>Copyright ⓒ {year}</p>
+      <p> Created By Neerav Singla </p>
     </footer>
   );
 }
